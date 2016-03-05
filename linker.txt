@@ -1,0 +1,1 @@
+-static-libstdc++ -static-libgcc "C:/Program Files (x86)/Dev-Cpp/MinGW32/lib/libws2_32.a" "C:/Program Files (x86)/Dev-Cpp/MinGW32/lib/libpthreadGC2.dll.a"
